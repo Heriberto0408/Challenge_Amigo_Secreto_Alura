@@ -23,7 +23,7 @@ Este proyecto fue desarrollado como parte de un **challenge del curso de JavaScr
 
 - `index.html` – Estructura básica del sitio
 - `script.js` – Lógica funcional del sorteo
-- `style.css` *(opcional)* – Estilos visuales 
+- `style.css`  – Estilos visuales 
 
 ## 🧪 Cómo probarlo
 
