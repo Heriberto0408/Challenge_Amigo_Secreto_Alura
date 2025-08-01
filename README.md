@@ -42,10 +42,12 @@ Este challenge refuerza el uso de:
 - Generación de contenido HTML con `innerHTML`
 
 ## 📸 Capturas
-  <img width="2876" height="1454" alt="image" src="https://github.com/user-attachments/assets/f8c5858d-5a94-4dfe-bb91-8daf10bdf14a" />
+  - Pagina Principal
+    <img width="2876" height="1454" alt="image" src="https://github.com/user-attachments/assets/f8c5858d-5a94-4dfe-bb91-8daf10bdf14a" />
   - Lista generada por el usuario
-    <img width="1862" height="950" alt="image" src="https://github.com/user-attachments/assets/2b5f5403-8fd5-45b5-a956-7b67dc2e9603" />
+  - <img width="1918" height="1298" alt="image" src="https://github.com/user-attachments/assets/90e9310b-3d9b-4b66-9a22-513626e261c4" />
   - Amigo Sorteado
-    <img width="1936" height="1206" alt="image" src="https://github.com/user-attachments/assets/aa6da639-fe11-4824-bb84-9221616de9c1" />
+  - <img width="1742" height="1086" alt="image" src="https://github.com/user-attachments/assets/b18d1177-5817-47a8-9fff-de19085ef58a" />
+
 
 
